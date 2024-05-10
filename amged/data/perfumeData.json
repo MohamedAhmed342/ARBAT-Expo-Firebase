@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "name": "immortal",
+    "image": "https://s3-alpha-sig.figma.com/img/0767/4cc2/bfc7eabef69ae5bfe97d911806f134dd?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LO1GLGDtD3erZ0rFnvmRHpSlipMjTei4J9VEr2xwfV1Mz~yKE8HD0HqhMDbhe7CXEB~GNUp2Wl90aEAyOPJ0DrpKZCOQbka8JvPmSniw4Jpm7lIeCxHUlbtWUpFdkcrbIRqEyP90abV93hNTfwgqKiETdhuFhcvR7TQo4O61F5arECmmwBIUeXNtToWnlOBbMRzDLVKqi47BgMwS-EW5z91swy-YgeQytC23cPy-o-FZkBFBUHT6Hj4GIHMxd-XAn~QhefhPbOj34MHGdW85wKLX~7w97dHib5A5a-1yfFMPijF7~MIId47-z15DLT3g7~ggqDX5~LAd4pGW9Z3vuQ__",
+    "description": "A delightful fragrance with floral and citrus notes.",
+    "rating": "4.5",
+    "price": "29.99"
+  },
+  {
+    "id": "2",
+    "name": "Perfume2",
+    "image": "assets/images/44b9d3a72685187226306944455cdbe4.jpeg",
+    "description": "An elegant blend of woody and musky scents.",
+    "rating": "4.2",
+    "price": "39.99"
+  },
+  {
+    "id": "3",
+    "name": "Perfume3",
+    "image": "../assets/images/49b5d7851cb585453f25c8d2b32e16b5.jpeg",
+    "description": "A fresh and invigorating aroma with hints of lavender and mint.",
+    "rating": "4.8",
+    "price": "49.99"
+  },
+  {
+    "id": "4",
+    "name": "Perfume4",
+    "image": "../assets/images/543db3ff7227030112d26b998d658db8.jpeg",
+    "description": "A warm and sensual fragrance with vanilla and amber undertones.",
+    "rating": "4.6",
+    "price": "59.99"
+  },
+  {
+    "id": "5",
+    "name": "Perfume5",
+    "image": "assets/images/0882db10d97d9d8eec11266c24874e5a.jpeg",
+    "description": "A vibrant and energetic scent with fruity and floral accords.",
+    "rating": "4.4",
+    "price": "69.99"
+  },
+  {
+    "id": "6",
+    "name": "Perfume6",
+    "image": "",
+    "description": "A mysterious and captivating aroma with oriental spices.",
+    "rating": "4.7",
+    "price": "79.99"
+  },
+  {
+    "id": "7",
+    "name": "Perfume7",
+    "image": "",
+    "description": "A romantic and dreamy fragrance with delicate floral notes.",
+    "rating": "4.3",
+    "price": "89.99"
+  },
+  {
+    "id": "8",
+    "name": "Perfume8",
+    "image": "",
+    "description": "A bold and masculine scent with woody and leather accords.",
+    "rating": "4.9",
+    "price": "99.99"
+  },
+  {
+    "id": "9",
+    "name": "Perfume9",
+    "image": "",
+    "description": "A sweet and playful fragrance with gourmand notes.",
+    "rating": "4.1",
+    "price": "109.99"
+  },
+  {
+    "id": "10",
+    "name": "Perfume10",
+    "image": "",
+    "description": "A clean and refreshing aroma with aquatic and green notes.",
+    "rating": "4.5",
+    "price": "119.99"
+  },
+  {
+    "id": "11",
+    "name": "Perfume11",
+    "image": "",
+    "description": "A luxurious and sophisticated scent with floral and oud accords.",
+    "rating": "4.6",
+    "price": "129.99"
+  }
+]
