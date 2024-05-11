@@ -60,7 +60,6 @@ const page = () => {
         }}
       />
       <View style={[styles.container, { paddingTop: headerHeight }]}>
-        <Text>Hello gayer</Text>
         <View style={styles.searchSectionWrapper}>
           <View style={styles.searchBar}>
             <Ionicons
@@ -77,7 +76,7 @@ const page = () => {
         </View>
 
         <CategoryButtons onCategorychange={onCatChanged} />
-        <Listings listings={perfumeData} />
+        <Listings listings={perfumeData} category={category} />
       </View>
     </>
   );

@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "name": "immortal",
+    "name": "Enchanting Elixir",
     "image": "https://s3-alpha-sig.figma.com/img/0767/4cc2/bfc7eabef69ae5bfe97d911806f134dd?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LO1GLGDtD3erZ0rFnvmRHpSlipMjTei4J9VEr2xwfV1Mz~yKE8HD0HqhMDbhe7CXEB~GNUp2Wl90aEAyOPJ0DrpKZCOQbka8JvPmSniw4Jpm7lIeCxHUlbtWUpFdkcrbIRqEyP90abV93hNTfwgqKiETdhuFhcvR7TQo4O61F5arECmmwBIUeXNtToWnlOBbMRzDLVKqi47BgMwS-EW5z91swy-YgeQytC23cPy-o-FZkBFBUHT6Hj4GIHMxd-XAn~QhefhPbOj34MHGdW85wKLX~7w97dHib5A5a-1yfFMPijF7~MIId47-z15DLT3g7~ggqDX5~LAd4pGW9Z3vuQ__",
     "description": "A delightful fragrance with floral and citrus notes.",
     "rating": "4.5",
@@ -9,82 +9,114 @@
   },
   {
     "id": "2",
-    "name": "Perfume2",
-    "image": "assets/images/44b9d3a72685187226306944455cdbe4.jpeg",
+    "name": "Mystical Mirage",
+    "image": "https://s3-alpha-sig.figma.com/img/15fe/464b/b77830e4cb3413eb22730a3b41e930c6?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fX2PB12VLX4IQVUoXcAvtnL80uY1ypyYBEhfnjOC1avxfC0XY7nmLXOlFZn8JD-UKngTYT3Xbt0167tJEQHd4LTyh1kUCTki67rMk2RVBenY9Dd8lNaZld-XGqy9Dww-7DVegg5qP~UW3puia0UhVzWqf3~3VioKP8xdE8celUg~o-mHX4lLjifn4EfAPTsblnS0DMTHEaKjLLFO6lRgWEdecEapMcIQcadTKjM1LYBC9tUNqkflh8XJC0Njfe9pBXJZsP2pE8vjPwiYsJXF4Khyod52KQXG7egwgNCB0cxEYXaJ0LiSwMEkFgOUcznctfjNXv4JirsdlBccSMM6YA__",
     "description": "An elegant blend of woody and musky scents.",
     "rating": "4.2",
     "price": "39.99"
   },
   {
     "id": "3",
-    "name": "Perfume3",
-    "image": "../assets/images/49b5d7851cb585453f25c8d2b32e16b5.jpeg",
+    "name": "Whispering Winds",
+    "image": "https://s3-alpha-sig.figma.com/img/8ead/2aa4/0882db10d97d9d8eec11266c24874e5a?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MVvhNsW1G9J2SkHvlltdaUTc3dvteRNwlLzCKk3WINZRbrU3LlGAgsQiOHW3CWYLfKFSwyK2NY6QNfPri1z8pkf89Bu7K4YOKKZEP~olpn89T7MmXIRLBr9wMVYf3wmzx3c-UcQ0khEZj0XYwprLzer5x-L~hFQbyzbCloOrFVxKPi3ebYieAOLWW4No8l5bexPcbjGoL-QiIFfcHtsagwBX~u~wOg70djH7Mdl6yURCleLt1DYrvM6OnupzRmyuUPZ7EWjYpZ~~rkhWaEfwfVUS6RctAycqksRmcAlmqk8HrecCq3IswJhHwE9ImckA5sZdNSt3fm9MkyoR-H2VjQ__",
     "description": "A fresh and invigorating aroma with hints of lavender and mint.",
     "rating": "4.8",
     "price": "49.99"
   },
   {
     "id": "4",
-    "name": "Perfume4",
-    "image": "../assets/images/543db3ff7227030112d26b998d658db8.jpeg",
+    "name": "Serene Symphony",
+    "image": "https://s3-alpha-sig.figma.com/img/e514/b104/44b9d3a72685187226306944455cdbe4?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Tz9RKsO-qNJp~X8Y~~byTc15EiPlO27Zo-pKvy3F1hkK2BHCISfEPOUWBctCeZ5Mmf1ZXshmoMXcobhheCFx04F10RnL7~-3u8b32oCzYdB5ePje0aTQ1xzPHEvg~F8ZjRA85Jqgn2xAnaAFfBYy2VkEFdrQLr75F9S0w4K7pWhyc~k2QeL6TeEhJYXgxE4u1-nINudKv12dG~WmqNEMaxSMIcPR~umCCBod5Ym8SWfLvBlLkyAEfIURsEVSg5ItqlK~I253elKLIQwGH3P00JZFecBczR8Bogb~Rmx7n-3sXclDB~fdXR9gZ16VJ~r4gdPTjT7YJilPoJpKKU7ixQ__",
     "description": "A warm and sensual fragrance with vanilla and amber undertones.",
     "rating": "4.6",
     "price": "59.99"
   },
   {
     "id": "5",
-    "name": "Perfume5",
-    "image": "assets/images/0882db10d97d9d8eec11266c24874e5a.jpeg",
+    "name": "Midnight Melody",
+    "image": "https://s3-alpha-sig.figma.com/img/13aa/f3bb/49b5d7851cb585453f25c8d2b32e16b5?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TNqVM1TjTEOhpB3deormB80zZR7J6wGXAZhiQttqUMhnjB-1BiKjHwiefsO41gTbLUALbQ4bsbC8i0ENi78omy40u1upQWK~weg~HVM3BlYo9y2mBtHjlzwh1THrfyCBlaYkFqyDshXJXXvrRWgwbALXlfF84EsV-L91yL8dWxX2l03QacSt2qb9QLoxfRR7YuzxwV08ZbdT0qkvxDVZohvFgmnoJTWQZMeVQoz16MmUF8yqR9ItYPaGrBOpoH8sQTSQtmcQZ7~LvYiPDh~xyrHQb2jEgs279hdmbqMfI~61jgTAqdquBIQ8Dpqs5-01OLPYqM0dXymigusGfQhvzw__",
     "description": "A vibrant and energetic scent with fruity and floral accords.",
     "rating": "4.4",
     "price": "69.99"
   },
   {
     "id": "6",
-    "name": "Perfume6",
-    "image": "",
+    "name": "Harmony",
+    "image": "https://s3-alpha-sig.figma.com/img/3cf8/f4d8/e879e1979df34e4980c53043cc5b936f?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=K14zPRkF82t5RNu9hsCgssMDm84OfW6DRW5565fZia~sIlGcOlU3blPuMjF9ncj4piEWTR5QRuBSmSP~UKUFdJux2y9AIhV98~nOWCVLwaMaE2xBLY~YzFduwWMzP-WZVXskIa-kNYXHEqkg5nBUD-cXjuqn6FueLYW0b2Q7b7~ki-GKMJf~UmVviRJxKnY4yo~qBl9qU9PQ5CV0tPMbbWggYsdpKeYVJl-yXNO1sRFQyI08RNZyevIRfFFKCxL~wXzmqRcuJ61mVqR~YbAa4HTkJeIpw8j6SmyofsUKSJqhDptQoWCjpgqxB2xouR8yLEwoZ47XZfIMOj4DYvEMzQ__",
     "description": "A mysterious and captivating aroma with oriental spices.",
     "rating": "4.7",
     "price": "79.99"
   },
   {
     "id": "7",
-    "name": "Perfume7",
-    "image": "",
+    "name": "Radiant Aura",
+    "image": "https://s3-alpha-sig.figma.com/img/6d0a/c9a4/543db3ff7227030112d26b998d658db8?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DwG6VmHnF7IjzToeJ9n22mncPMMm4XP6X8lNLQWDCI0IbxLmb8EuaZ73ID-QfxRxEOqczdTztv15EFHbVplKWgD3gTTbvINZVttsJoyK~qvB2iCcF7AzP1P8ldtGuIfnChnglUL-MV5SaTecDstowMjz6phxCHQTO2t5935RKoO-gS~vIFT3i20SNO~lVy4ONM2XX8klbbITDQE3XLwqziZHitXz-kbOHw9Ouy3HO7vwOez-3~0ANTGGAZ5PVUjBq9UHKibGl0VTZiEf3hbGdkHEP8lgJSGcO13Tq2DHsVq~2XpkLBu1RY53aiSl1LgsbDP1bFn3vdJx0J58fo8ycg__ ",
     "description": "A romantic and dreamy fragrance with delicate floral notes.",
     "rating": "4.3",
     "price": "89.99"
   },
   {
     "id": "8",
-    "name": "Perfume8",
-    "image": "",
+    "name": "Sparkling Stardust",
+    "image": "https://s3-alpha-sig.figma.com/img/4010/ad70/c1f5bf6104cd3b5bf4e6b0847e9cecb1?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=K4nUSq4NLYJNOYBUA-huDrWZsB1IkQqIeB5NAHnHw9hOpXGQJyEL2I2cf0Y-JxiBkt9Ai9M4UQCcHVDhB9SD3RZeVKsWjiB-hHtdHxGRsoZojwj3TCym9LLkUeR1xfxk7~HK~d6tn1jPxlEFo4xi1~-13mqgTSRCHbDFQp8SjygFhcszeEo7Pi8ZILTISq~ErbU6vibe7aA84FsMmZkQRlVRN626WxFI-1aHxP9lOowI~rR9Ayfacr6zKuAh3hair7g9nDhjdoZKjNeyiUa1UE5PrZ6COVQyesv9FOQnrU1DHVeAqbFWv500QQYV1Syv7ulCWuSCuvmbq7i31ceqSw__",
     "description": "A bold and masculine scent with woody and leather accords.",
     "rating": "4.9",
     "price": "99.99"
   },
   {
     "id": "9",
-    "name": "Perfume9",
-    "image": "",
+    "name": "Euphoria",
+    "image": "https://s3-alpha-sig.figma.com/img/fbe2/deae/f5825e8c14d52a537a481f033b82ba44?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Zd~~moKKc0PQa6h3xRdsZBbXbkRoPnc6Y7UKYgMttyKAzOW45SiERziClKnLbxeeH8yW3-iQ6SYyROoQIfxfhP8oYj~ZWOZCNHhVDJqTx1Uvoo2QT-85AALUZCR-a~XQjprFUcCbMxT4nbX8a2T~hltuvvU04Hkw-GR5tT3AHbWJl6lCD-jwdndIeuP7282Wyj~B97Ip8xVakaZ6P5Pat0e5zx6HbXZOHXtqEBYltXsji3YSswDQX4Zq2DjVH6zUeV6j6VfHskobZeFiH02MldphCqIv3aDLJnedYSUWv25AGLRMLzd6EEd9ASI8-V1PPHCzL0iICC5tYIMnIGGbqA__",
     "description": "A sweet and playful fragrance with gourmand notes.",
     "rating": "4.1",
     "price": "109.99"
   },
   {
     "id": "10",
-    "name": "Perfume10",
-    "image": "",
+    "name": "Obsession",
+    "image": "https://s3-alpha-sig.figma.com/img/7f3e/6e7a/f2996ce48eda40acfc9da72886a0231a?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GH3t8NVW-9AVhgvJ~602Rd6yD9C9No3tNrmQSjxMt7U8HguutUk3WiCl3pWyHsc76Te46SfgYjLEXI2cAyUX54cnC75~0reg1H-VgfJfbZD8xgAB9rVyK9Z41Wq-HGlWqAOIKZEWV-2vFK70vtctN1gBS-03bSQj7MdYEtgWBhDoffUrk74sh4NtQUlOQWfcPgzvgl1t4ssP2eFpcpozvHgYPOIDKL4m~v9CDn7jcuJfj-w2i7YDEHr4XfnN62ioAJg~FwBUtEumFkyDfoNkE-TBdFoaTmP7dAfP1FDD8fmBvZcaCCrA9WP3N131pYMCum2afZXOYOMgPpTIq-AnrA__",
     "description": "A clean and refreshing aroma with aquatic and green notes.",
     "rating": "4.5",
     "price": "119.99"
   },
   {
     "id": "11",
-    "name": "Perfume11",
-    "image": "",
+    "name": "Bliss",
+    "image": "https://s3-alpha-sig.figma.com/img/1fb3/e5fc/f4fa4a5fcefa3d52ecd820697d45ab83?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=iQBQn~ZYbGIcdiF7xufCFbBjObV7w-~oGTdDoztSryuHZF7ayC1pncJHhXgzFfTdh5brFTVQ4XdiFwGST1jvFyZcm1r5fmwhbNwyy56chZ1rA0dILx0XRUDu5K8ppO9hJb4i5elK96Z72JK5AA-UcUJw4yBReNGtjP3YNnXbx5EJDj4BsMwHrft9jbLbq1EX9A2PDtqXY0r9gkMeyP3cSINSlG~Za6d7WEeQOh2OQGGIl2Yt6oB8NIlHJZFekPnF~Ky~EVcsHnTUCSGRBPUF~yvwZs6uTLP8wE4spgQDLTfCCvB764FxPF63mLuYNIhKPSJk8T-xy5pHkdkGoSHZGw__",
     "description": "A luxurious and sophisticated scent with floral and oud accords.",
     "rating": "4.6",
     "price": "129.99"
+  },
+  {
+    "id": "12",
+    "name": "Essence",
+    "image": "https://s3-alpha-sig.figma.com/img/89c4/2a83/a4c649e39bc2d123bd88a4b4df18bcec?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kCqoCiv~oJAR4~9E44-A8Q2JSaxvubuMpb6k9qb8XWrHrWw5em2Biz-HnQEBicQ2rs664aslfY7vntRhYAidmJj~bS4UgfuhMtEEi~hQJnRVnxpGPnMMAA0ofHKMqdPciralbyRp38AD8MXMnN~ENTPiJxdC4d6lb3avCszoJxBWdNgyqnWwwJnJkbvilo~JxV60XBK2E8dYJEuuNCQcsfH8Hwm3XoLYz7BRvaDt8EYzNAflGwLpQ-PvLXdI2HW1P2Nwx8sMfAgcwOENp1KaLWc5MxxYTx0c9eRLSjK2u52Ke~LZsFDegygnGyxGierpPRHmExrnqYloRL699cifUw__",
+    "description": "A clean and refreshing aroma with aquatic and green notes.",
+    "rating": "4.5",
+    "price": "119.99"
+  },
+  {
+    "id": "13",
+    "name": "Serenity",
+    "image": "https://s3-alpha-sig.figma.com/img/4f17/ce76/2f04c00d438aa9df59895c2eaa1f63e0?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MP-qv1RpouTffzTsHegkqBNtkqQODUgjxfzGNK9Ku3eWP9PEpJigMsI0SlZovs7Cu7S8HrHncO2CsWxl8gWj-NStIBiyRdYw0DacTVvMMCul3e02GpI-gF1lisZ2E3mEIRG9ATCvleDNGFRdrCOwZv4-LPesJ24dz0vicOaANBo8krXCLmIC6hiAkhd5cAIIH9nU-pfi2I-ivBGDCRyCmQj8ZAjagwBkwu1oOqkik7iYpfquu3Q9Ofl3E-TJ1Ofm~nYi~L2QSyIwPIss14z9F1KnfdnJApvKVBgAkvPonBIQEQMSjLrWXdSRN6wP0w5wnue2BoR6ee0VPi87KUe6lQ__",
+    "description": "A sophisticated fragrance for the confident man.",
+    "rating": "4.4",
+    "price": "44.99"
+  },
+  {
+    "id": "14",
+    "name": "Scential",
+    "image": "https://s3-alpha-sig.figma.com/img/1492/95e3/d3eae4ee98d71a0927b8a36d6b3d6d89?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gGHnMBC-fUhgGWPfa-C7qYpEuaxA8XX5svbQGhB~nfMk9FBSKof6VHmvqwg1lmFP5or1wO9YUfqon7CF5nCeQR8VT9wwoj3ecKFbVjnxr1EQISLH05You2nHHyzxePkMqUMLQZe5g7V36nS-PgWJss3gIUb3xjVn2M0x~GusJ4fqxKoPVCMiLku~8LtIgTMFmi7UjLOSZ0WZlEEC9dOKXHdHsHWV2kerxGv9FlgTMFn353jIxDwwFwHDXs9nNbh9FqVlY4I1ejCVV~AuOlv2zWhGvrxqTgRhVQhhlI38jGpgNVHS8QrQP0QB7WBBPFtK36ZNx8pBQaxFBGyefZ6X-g__",
+    "description": "A timeless fragrance with a modern twist.",
+    "rating": "4.7",
+    "price": "57.99"
+  },
+  {
+    "id": "15",
+    "name": "Celestial",
+    "image": "https://s3-alpha-sig.figma.com/img/0be6/d24f/48aee4c74aa0a51996349e6ef2b2d62e?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=WT2KKcQbZ2fgHco1203C5NfNnIj37XVAdMiUfJRKOY4dNcZ-AJGS96AiJklVvBTqqxTaSzsJC41rcAaA1qIYEtQghOjtl7KaocQxKMLEiDGY7hAdD07Kwtt8EEy~k9V0Ki5SS1zEy18InvwwIV~1ralMAAqEglN18IeVAHcAuysJFN9UpOw-hGksidIEbFVosaakq-YCGpiSbqYs9Lh7mnpHu6zra3M4dpBFE0u58fuKygqDuEeXA0WJ-B3rcnjnKiMqMHW6kukTn7NVTv3Z4xb1O8IT5nRlGuVVKI9FFatzYeCD-mu4wbeUGMBznn37ZqCDof-pkND-4z52n61GLg__",
+    "description": "A mesmerizing fragrance that leaves a lasting impression.",
+    "rating": "4.5",
+    "price": "49.99"
   }
 ]
