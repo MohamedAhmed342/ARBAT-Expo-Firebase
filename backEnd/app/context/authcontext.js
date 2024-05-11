@@ -3,9 +3,13 @@ import { auth } from "../firebaseConfig";
 import { onAuthStateChanged ,createUserWithEmailAndPassword,signInWithEmailAndPassword,signOut} from "firebase/auth";
 import { doc, getDoc,setDoc} from "firebase/firestore";
 import { db } from "../firebaseConfig";
+import { useRouter } from 'expo-router';
+
+
 export const AuthContext = createContext();
 
 export const AuthContextProvider = ({ children }) => {
+    const router = useRouter();
     const [user, setUser] = useState(null);
     const [isAuthenticated, setIsAuthenticated] = useState(undefined);
 
@@ -36,6 +40,30 @@ export const AuthContextProvider = ({ children }) => {
 
     const login = async (email, password) => {
         try {
+            if (email === 'Admin@gmail.com' && password === 'Admin12345') {
+                // Redirect to admin page
+                router.push('Admin'); // Change '/admin' to the actual admin page URL
+            } else {
+                const response = await signInWithEmailAndPassword(auth, email, password);
+                return { success: true };
+            }
+        } catch (error) {
+            let msg = error.message;
+            if (msg.includes('(auth/invalid-email)')) msg = 'Invalid email';
+            if (msg.includes('(auth/invalid-credential)')) msg = 'Wrong credentials';
+            return { success: false, msg };
+        }
+    };
+    
+
+
+
+
+
+
+    /*
+    const login = async (email, password) => {
+        try {
             const response =await signInWithEmailAndPassword(auth,email,password);
             return{success:true};
         } catch (error) {
@@ -45,6 +73,7 @@ export const AuthContextProvider = ({ children }) => {
                 return{success :false, msg };
         }
     };
+    */
 
     const logout = async () => {
         try {
