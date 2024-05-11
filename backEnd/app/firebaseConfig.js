@@ -8,6 +8,7 @@ import {getReactNativePersistence,initializeAuth}from 'firebase/auth';
 import AsyncStorage from "@react-native-async-storage/async-storage";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 import { getFirestore,collection } from "firebase/firestore";
+
 const firebaseConfig = {
   apiKey: "AIzaSyCOy7xqJ3dGLsGP759W6-UIoQJaa3ZI75M",
   authDomain: "perfume-fd840.firebaseapp.com",
